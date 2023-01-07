@@ -1,0 +1,5 @@
+"npx express-generator"
+"npm i" to install all required packages
+"npm i mongodb mongoose cors" all other packages
+"npm i valadator" to check whether email is valid or not.
+"npm i nodemon" finally
